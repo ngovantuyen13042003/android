@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BAITAP</string>
+    <string name="sign_in">You have an account? <b> Sign In</b></string>
+</resources>
