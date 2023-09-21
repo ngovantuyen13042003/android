@@ -10,6 +10,13 @@
     android:background="#C4D7EC"
     android:gravity="center"
     >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ngô Văn Tuyến_21115053120261"
+        android:textSize="23dp"
+        android:textColor="#F32C2C"
+        />
     <de.hdodenhof.circleimageview.CircleImageView
         android:id="@+id/circleImageView"
         android:layout_width="120dp"
